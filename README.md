@@ -3,6 +3,7 @@
 
 Basic Reserval, Offsets:
 | Name | Module + Address | Offsets | Type |
+|---   |---               |---      |---   |
 | ค่าหมัดจม | FiveM_GTAProcess.exe + 0x0212B208 | 0x60 0x20 0x70 | float |
 | ตัวไหล | FiveM_GTAProcess.exe + 0x0212B208 | 0x0 0x7D8 0x0 0x0 0x10 0x1AC | float
 | ค่าเลือด | FiveM_GTAProcess.exe + 0x247F840 offsets 0x8 0x280 | float
