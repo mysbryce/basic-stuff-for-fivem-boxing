@@ -1,7 +1,7 @@
 # Basic Stuff for FiveM Boxing
  This is how boxing of FiveM really playing. If you guys have any idea guys can share here.
 
-Basic Reserval, Offsets:
+Basic Reserval, Offsets (Artifacts 2499)
 | Name | Module + Address | Offsets | Type |
 |---   |---               |---      |---   |
 | ค่าหมัดจม | FiveM_GTAProcess.exe + 0x0212B208 | 0x60 0x20 0x70 | float |
