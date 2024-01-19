@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pppx", "pppx.vcxproj", "{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Debug|x64.ActiveCfg = Debug|x64
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Debug|x64.Build.0 = Debug|x64
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Debug|x86.ActiveCfg = Debug|Win32
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Debug|x86.Build.0 = Debug|Win32
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Release|x64.ActiveCfg = Release|x64
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Release|x64.Build.0 = Release|x64
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Release|x86.ActiveCfg = Release|Win32
+		{191E0FC6-6AD2-4F9C-8955-ACFD46A05F7B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64A4E6B-FCAD-4EA3-A199-C8F18CD19F83}
+	EndGlobalSection
+EndGlobal
